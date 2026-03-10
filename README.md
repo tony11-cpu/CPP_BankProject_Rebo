@@ -1,7 +1,7 @@
 C++ Banking System
-My first ever C++ project — a full console-based banking management system built from scratch.
-What It Does
-The system has two sides:
+My first ever C++ project.
+A full console-based banking management system built from scratch.
+What It Does? The system has two sides:
 Bank Management (Staff Login)
 
 Add, delete, update, and search clients
