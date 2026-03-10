@@ -1,9 +1,0 @@
-﻿  CPP_BankProject.cpp
-C:\Users\Tonyg\source\repos\CPP_BankProject\CPP_BankProject\CPP_BankProject.cpp(100,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\Tonyg\source\repos\CPP_BankProject\CPP_BankProject\CPP_BankProject.cpp(1511,13): warning C4129: 'N': unrecognized character escape sequence
-C:\Users\Tonyg\source\repos\CPP_BankProject\CPP_BankProject\CPP_BankProject.cpp(1516,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Tonyg\source\repos\CPP_BankProject\CPP_BankProject\CPP_BankProject.cpp(711,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
-C:\Users\Tonyg\source\repos\CPP_BankProject\CPP_BankProject\CPP_BankProject.cpp(751,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
-C:\Users\Tonyg\source\repos\CPP_BankProject\CPP_BankProject\CPP_BankProject.cpp(782,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
-C:\Users\Tonyg\source\repos\CPP_BankProject\CPP_BankProject\CPP_BankProject.cpp(1370,1): warning C4715: 'WhatTransaction': not all control paths return a value
-  CPP_BankProject.vcxproj -> C:\Users\Tonyg\source\repos\CPP_BankProject\x64\Debug\CPP_BankProject.exe
